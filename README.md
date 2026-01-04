@@ -35,7 +35,7 @@ Mục tiêu:
   Lập trình và triển khai dịch vụ web.
 
 ### 2. Tài Liệu Môn Học
-- Bao gồm: Đề cương, sách tham khảo, đề mẫu và các đề được tổng hợp
+Bao gồm: Đề cương, sách tham khảo, đề mẫu và các đề được tổng hợp
 ---
 
 ## 🚀 Cách sử dụng
