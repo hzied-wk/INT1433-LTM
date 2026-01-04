@@ -34,18 +34,8 @@ Mục tiêu:
 - **10. Web service.pdf**  
   Lập trình và triển khai dịch vụ web.
 
-### 2. Giáo trình & Tài liệu tham khảo
-- **Giáo trình Lập Trình Mạng.pdf**  
-  Tài liệu chính thức của môn học.  
-- **Tài liệu tham khảo bổ sung**  
-  Các sách và tài liệu về lập trình mạng bằng Java/Python, networking principles.
-
-### 3. Đề thi & Ngân hàng câu hỏi
-- **Đề thi các năm**  
-  Đề thi chính thức các năm gần đây.  
-- **Ngân hàng câu hỏi LTM.pdf**  
-  Tổng hợp câu hỏi lý thuyết và bài tập thực hành.
-
+### 2. Tài Liệu Môn Học
+- Bao gồm: Đề cương, sách tham khảo, đề mẫu và các đề được tổng hợp
 ---
 
 ## 🚀 Cách sử dụng
