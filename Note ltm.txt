@@ -1,0 +1,58 @@
+Đặng Ngọc Hùng - hungdn@ptit.edu.vn
+Bộ môn CNPM
+-----------------------------------
+Lập trình mạng (OOP-JAVA + Network)
+1. Mục tiêu
+---> xây dựng/phát triển được các ứng dụng/hệ thống có giao tiếp (gửi/nhận dữ liệu) qua mạng (sử dụng một giao thức)
+---> Dev BE, DevOps
+
+2. Nội dung (các giao thức, socket, phân tán)
+    1) Tổng quan
+    2) Stream (luồng dữ liệu)
+    3) Thread (luồng xử lý - JVM)
+    4) TCP Socket 
+    5) UDP Socket
+    6) HTTP/SMTP/FTP
+    7) NIC/Multicast
+    8) RMI (Remote method Invocation - java)
+    9) Web service (XML - SOAP based WS) # REST Service - JSON
+    10) ...
+    + 03 thực hành (TCP Socket, UDP Socket, RMI + WS)
+    
+Học liệu:
+    1. Java network programming (4th)
+    2. Network programming with GO (2021)
+    
+3. Tổ chức thực hiện: 16 tuần (+1)
+    + 05 tuần đầu: GV trình bày 10 nội dung trên
+    + 05 tuần giữa: nhóm SV thảo luận và trình bày topic
+            + mới
+            + nâng cao
+        --> Làm nhóm, không bắt buộc --> slide và thuyết trình
+        --> Mục tiêu B+/A/A+
+    + 06 tuần cuối: Báo cáo bài tập lớn
+        -- Tối thiểu mỗi nhóm 02 lần báo cáo --> source code + readme.md -> trao đổi GV
+        
+4. Cách thức đánh giá:
+    1) CC: 10%, cá nhân, -01 điểm/ 01 vắng.
+    2) TBKT: 20%, cá nhân, trung bình 03 buổi thi phòng máy 60'
+        + TH1: TCP Socket
+        + TH2: UDP Socket
+        + TH3: RMI + WS
+    --> Format: Yêu cầu viết chương trình (client)  giao tiếp với server theo một giao thức và logic (được mô tả trong đề bài)
+    --> Bổ sung một số dạng bài về một số giao thức mới/quan trọng.
+    
+    3) BTL: 20%, nhóm - không quá 3 người
+        + github classroom (contribute - commit/merge) - version control -> đóng góp cá nhân.
+        + không giới hạn ngôn ngữ
+        + Cộng điểm thi KTHP
+        + Căn chỉnh (+) điểm trình bày topic
+    
+    4) Thi KTHP, 50%, cá nhân, thi phòng máy 60'
+        + Nội dung: tổng hợp các nội dung thi phòng máy
+        + Căn chỉnh (+/-) với điểm BTL
+        
+5. Giao tiếp
+    - (all) Thông báo/thắc mắc/hỏi/thảo luận --> Bài viết/bình luận trong group facebook.
+    - Group: https://fb.com/groups/ltm2025
+    - Email (cá nhân/quan trọng): hungdn@ptit.edu.vn
