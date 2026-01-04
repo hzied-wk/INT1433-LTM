@@ -40,9 +40,8 @@ Mục tiêu:
 
 ## 🚀 Cách sử dụng
 1. **Clone repo**:
-   ```bash
    git clone https://github.com/hzied-wk/INT1433-LTM.git
-   ```
+
 2. **Truy cập tài liệu**:  
    - Đọc giáo trình để nắm lý thuyết.  
    - Học theo slide từng chương để hệ thống kiến thức.  
@@ -71,7 +70,11 @@ Mục tiêu:
 - Multicast và NIC
 
 ---
+## 📌 Lưu ý làm bài
+1. Tất cả ngoại lệ các bạn chỉ cần throws Exception thôi, không cần nhiều ngoại lệ làm gì
+2. Môn này cũng thi AC, nhưng không so sánh văn bản in ra màn hình. Máy chỉ chấm cái các bạn gửi lên máy chủ thôi.
 
+---
 ## 🤝 Đóng góp
 Bạn có thể:
 - Tạo **issue** để báo lỗi hoặc đề xuất bổ sung tài liệu.
